@@ -31,4 +31,4 @@ This project analyzes retail sales data and presents insights using an interacti
 - Business Insights
 
 ## Dashboard Preview
-![Dashboard](dashboard_overview.png)
+![Dashboard](Retail Sales Analysis Dashboard 1.png)
